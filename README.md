@@ -1,4 +1,4 @@
-![amari](https://files.catbox.moe/q55l9i.png)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arxari)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Support Me
