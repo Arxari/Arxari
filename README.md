@@ -1,6 +1,5 @@
 #### Heyo cutie, I'm Ari :3 
-I make lots of stuff, but I love making neat Linux shell scripts (i use arch tehee)
-You can check out my shell scripts at [ Ari's Absoutely Amazing, The Best, Simply Glorious, .SH Utilities](https://github.com/AAATBSGSHU)
+I make lots of stuff, but I love making neat Linux shell scripts (i use arch tehee), you can check out my shell scripts at [ Ari's Absoutely Amazing, The Best, Simply Glorious, .SH Utilities](https://github.com/AAATBSGSHU)
 
 
 
