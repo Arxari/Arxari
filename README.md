@@ -6,7 +6,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
   <img src="https://github.com/user-attachments/assets/07f67f30-1d09-40f8-a3a8-f70dacb62123" width="128" height="128" alt="Ari-NBSS">
 </a>
 
-
+-- -
 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=arxari&show_icons=true&theme=dracula">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxari&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dracula">
