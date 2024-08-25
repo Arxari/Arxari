@@ -5,7 +5,10 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 
 
 
-[![Ari-NBSS](https://github.com/user-attachments/assets/07f67f30-1d09-40f8-a3a8-f70dacb62123)](https://github.com/AAATBSGSHU)
+<a href="https://github.com/AAATBSGSHU">
+  <img src="https://github.com/user-attachments/assets/07f67f30-1d09-40f8-a3a8-f70dacb62123" width="128" height="128" alt="Ari-NBSS">
+</a>
+
 
 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=arxari&show_icons=true&theme=dracula">
