@@ -1,8 +1,11 @@
 #### Heyo cutie, I'm Ari :3 
 I make lots of stuff, but I love making neat Linux shell scripts (i use arch tehee), you can check out my shell scripts at [ Ari's Absoutely Amazing, The Best, Simply Glorious, .SH Utilities](https://github.com/AAATBSGSHU)
 
+[![Image Alt Text](Image URL)](Link URL)
 
 
+
+[![Ari-NBSS](https://github.com/user-attachments/assets/07f67f30-1d09-40f8-a3a8-f70dacb62123)](https://github.com/AAATBSGSHU)
 
 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=arxari&show_icons=true&theme=dracula">
