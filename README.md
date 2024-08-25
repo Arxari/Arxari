@@ -6,14 +6,15 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
   <img src="https://github.com/user-attachments/assets/07f67f30-1d09-40f8-a3a8-f70dacb62123" width="128" height="128" alt="Ari-NBSS">
 </a>
 
-<a href="https://github.com/No-Bullshit-Software">
-  <img src="https://github.com/user-attachments/assets/efac5729-56a5-46b8-837e-5a9971f432f5" width="128" height="128" alt="NBSS-NBSS">
-</a>
 
 <a href="https://github.com/ZappyTime">
   <img src="https://github.com/user-attachments/assets/6875ee39-bb46-448f-9334-e3116b112376" width="128" height="128" alt="ZappyTime-NBSS">
 </a>
 
+
+<a href="https://github.com/No-Bullshit-Software">
+  <img src="https://github.com/user-attachments/assets/efac5729-56a5-46b8-837e-5a9971f432f5" width="128" height="128" alt="NBSS-NBSS">
+</a>
 
   
 -- -
