@@ -20,7 +20,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 -- -
 ### Project showcase
 
-#### OpenShockClock and OpenShockClockWeb
+#### [OpenShockClock](https://github.com/Arxari/OpenShockClock) and [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb)
 -- -
 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=arxari&show_icons=true&theme=dracula">
