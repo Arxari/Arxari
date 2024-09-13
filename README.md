@@ -25,6 +25,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 
 #### [TortureShock](https://github.com/Arxari/TortureShock)
 A CLI program to shock someone repeatedly at a select value, name is like that because, FBI, or something.
+
 ![image](https://github.com/user-attachments/assets/1f19edbf-a470-45ae-8de8-87a47ee38cb4)
 
 -- -
