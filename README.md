@@ -18,10 +18,13 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 
   
 -- -
-### OpenShock Utilities and Games
+### [OpenShock](https://openshock.org/) Utilities and Games
 
 #### [OpenShockClock](https://github.com/Arxari/OpenShockClock) and [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb) | Wake up with electricity, not noise. Powered by OpenShock.
 ![image](https://github.com/user-attachments/assets/3ed213f0-f082-4d6a-bd38-0d3d8d2c0167)
+
+#### [Immersive ASMR](https://github.com/Arxari/immersive-asmr)
+A subtitle-like system for audio files which instead of displaying text shocks you.
 
 #### [TortureShock](https://github.com/Arxari/TortureShock)
 A CLI program to shock someone repeatedly at a select value, name is like that because, FBI, or something.
