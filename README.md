@@ -16,7 +16,8 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
   <img src="https://github.com/user-attachments/assets/efac5729-56a5-46b8-837e-5a9971f432f5" width="128" height="128" alt="NBSS-NBSS">
 </a>
 
-  
+
+##### Setup any of my scripts with one script [here](https://github.com/Arxari/setup)
 -- -
 ### [OpenShock](https://openshock.org/) Utilities and Games
 
