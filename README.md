@@ -17,7 +17,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 </a>
 
 
-##### Setup any of my scripts with one script [here](https://github.com/Arxari/setup)
+##### Setup any of my scripts with [one script](https://github.com/Arxari/setup)
 -- -
 ### [OpenShock](https://openshock.org/) Utilities and Games
 
