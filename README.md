@@ -1,5 +1,6 @@
 #### Heyo cutie, I'm Ari :3 
 I make lots of stuff, but I love making neat Linux shell scripts (i use arch tehee), you can check out my shell scripts at [ Ari's Absoutely Amazing, The Best, Simply Glorious, .SH Utilities](https://github.com/AAATBSGSHU)
+###### As a note, my programms & scripts are made for Linux (and work on MacOS) on Linux, I generally don't focus on adapting them to work on Windows so while they might work (especially the python ones), keep in mind that for some you might have to use WSL or even better switch to Linux :D
 
 
 <a href="https://github.com/AAATBSGSHU">
