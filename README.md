@@ -25,6 +25,9 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 #### [OpenShockClock](https://github.com/Arxari/OpenShockClock) and [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb) | Wake up with electricity, not noise. Powered by OpenShock.
 ![image](https://github.com/user-attachments/assets/3ed213f0-f082-4d6a-bd38-0d3d8d2c0167)
 
+
+#### [ScreenShock](https://github.com/Arxari/ScreenShock)
+Shocks you based on what's on your screen, can be used to for example get shocked when loosing health or dying in a game. Made for Linux (Wayland).
 #### [Immersive ASMR](https://github.com/Arxari/immersive-asmr)
 A subtitle-like system for audio files which instead of displaying text shocks you.
 
