@@ -26,7 +26,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 ![image](https://github.com/user-attachments/assets/3ed213f0-f082-4d6a-bd38-0d3d8d2c0167)
 
 
-#### [ScreenShock](https://github.com/Arxari/ScreenShock)
+#### [ScreenShock (WIP)](https://github.com/Arxari/ScreenShock)
 Shocks you based on what's on your screen, can be used to for example get shocked when loosing health or dying in a game. Made for Linux (Wayland).
 
 #### [Linux terminal shock-aided learning tool](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool)
