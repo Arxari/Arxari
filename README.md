@@ -29,7 +29,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 #### [ScreenShock](https://github.com/Arxari/ScreenShock)
 Shocks you based on what's on your screen, can be used to for example get shocked when loosing health or dying in a game. Made for Linux (Wayland).
 
-### [Linux terminal shock-aided learning tool](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool)
+#### [Linux terminal shock-aided learning tool](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool)
 
 #### [Immersive ASMR](https://github.com/Arxari/immersive-asmr)
 A subtitle-like system for audio files which instead of displaying text shocks you.
