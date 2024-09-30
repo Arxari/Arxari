@@ -20,7 +20,7 @@ I make lots of stuff, but I love making neat Linux shell scripts (i use arch teh
 
 ##### Setup any of my scripts with [one script](https://github.com/Arxari/setup)
 -- -
-### [OpenShock](https://openshock.org/) Utilities and Games
+### [OpenShock](https://openshock.org/) Software and Utilities
 
 #### [OpenShockClock](https://github.com/Arxari/OpenShockClock) and [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb) | Wake up with electricity, not noise. Powered by OpenShock.
 ![image](https://github.com/user-attachments/assets/3ed213f0-f082-4d6a-bd38-0d3d8d2c0167)
