@@ -1,5 +1,8 @@
 #### Heyo, I'm Ari :3 
 I make lots of stuff, but I love making neat Linux shell scripts (i use arch tehee), you can check out my shell scripts at [ Ari's Absoutely Amazing, The Best, Simply Glorious, .SH Utilities](https://github.com/AAATBSGSHU)
+
+I use Rust (i wrote a hello world script sucessfully), Python and Shell
+
 ###### As a note, my programms & scripts are made for Linux (and work on MacOS) on Linux, I generally don't focus on adapting them to work on Windows so while they might work (Python and Rust should work with no issues), keep in mind that for some you might have to use WSL or even better switch to Linux :D
 
 
