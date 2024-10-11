@@ -25,7 +25,7 @@ I use Rust (i wrote a hello world script sucessfully), Python and Shell
 -- -
 
 <details open>
-  <summary style="font-size: 1.17em; font-weight: bold;">
+  <summary style="font-size: 1.5em; font-weight: bold;">
     <a href="https://openshock.org/">OpenShock</a> Software and Utilities
   </summary>
   
