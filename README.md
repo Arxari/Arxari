@@ -25,8 +25,8 @@ I use Rust (i wrote a hello world script sucessfully), Python and Shell
 -- -
 
 <details open>
-<summary>  ### [OpenShock](https://openshock.org/) Software and Utilities </summary>
-
+  <summary>### <a href="https://openshock.org/">OpenShock</a> Software and Utilities</summary>
+  
 #### [OpenShockClock](https://github.com/Arxari/OpenShockClock) and [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb) | Wake up with electricity, not noise. Powered by OpenShock.
 ![image](https://github.com/user-attachments/assets/3ed213f0-f082-4d6a-bd38-0d3d8d2c0167)
 
