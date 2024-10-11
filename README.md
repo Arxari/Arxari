@@ -53,11 +53,11 @@ A CLI utility to shock someone repeatedly at a select value, name is like that b
 <details open>
 
 <summary>
-<h3><a href="https://openshock.org/">OpenShock</a> Software and Utilities</h3>
+<h3> Websites and web stuff</h3>
 </summary>
 
 #### [spiral](https://arxari.github.io/spiral.html/)
-
+wooo ooooo ooo
 
 
 
