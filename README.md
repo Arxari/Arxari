@@ -80,12 +80,12 @@ wooo ooooo ooo
   <tr>
     <td>
       <a href="https://www.buymeacoffee.com/arxari">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
       </a>
     </td>
     <td>
       <a href="https://www.ko-fi.com/arxari">
-        <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="100"/>
+        <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200"/>
       </a>
     </td>
   </tr>
