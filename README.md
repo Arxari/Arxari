@@ -69,13 +69,14 @@ wooo ooooo ooo
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&width=435&height=60&lines=Hey+guys%2C+did+you+know+that;in+terms+of+human+companionship;Flareon+is+objectively+the+most;huggable+Pokemon%3F;While+their+maximum+temperature;is+likely+too+much+for+most%2C;they+are+capable+of+controlling+it%2C+;so+they+can+set+themselves+to;the+perfect+temperature+for+you.;Along+with+that%2C;they+have+a+lot+of+fluff%2C;making+them+undeniably+incredibly;soft+to+touch.;But+that's+not+all%2C;they+have+a+very+respectable;special+defense+stat+of+110%2C;which+means+that+they+are+likely;very+calm;and+resistant+to+emotional+damage.;Because+of+this%2C;if+you+have+a+bad+day%2C;you+can+vent+to+it;while+hugging+it%2C;and+it+won't+mind.;+It+can+make+itself+even+more;+endearing+with+moves+like;Charm+and+Baby+Doll+Eyes;ensuring+that+you+never+have+a;prolonged+bout+of+depression;+ever+again.)](https://git.io/typing-svg)
 -- -
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="width: 400px; height: 210px;">
+  <div style="width: 80px; height: 42px;">
     <img src="https://github-readme-stats.vercel.app/api?username=arxari&show_icons=true&theme=dracula" style="width: 100%; height: 100%;">
   </div>
-  <div style="width: 400px; height: 210px; margin-top: 10px;">
+  <div style="width: 80px; height: 42px; margin-top: 5px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxari&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dracula" style="width: 100%; height: 100%;">
   </div>
 </div>
+
 
 -- -
 
