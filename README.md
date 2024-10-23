@@ -76,5 +76,18 @@ wooo ooooo ooo
 
 ### Support Me
 
-| [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/arxari) | [![Ko-fi](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://www.ko-fi.com/arxari) |
-|:--:|:--:|
+<table>
+  <tr>
+    <td>
+      <a href="https://www.buymeacoffee.com/arxari">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.ko-fi.com/arxari">
+        <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="100"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
