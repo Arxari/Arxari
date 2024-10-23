@@ -78,10 +78,10 @@ wooo ooooo ooo
 
 <p>
   <a href="https://www.buymeacoffee.com/arxari" style="margin-right: 0.5rem;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
   <a href="https://www.ko-fi.com/arxari">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="100"/>
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200"/>
   </a>
 </p>
 
