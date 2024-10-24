@@ -56,6 +56,8 @@ A CLI utility to shock someone repeatedly at a select value, name is like that b
 <h3> Websites and web stuff</h3>
 </summary>
 
+#### [Comparison table between OpenShock and PiSHock](https://github.com/Arxari/OpenShock-PiShock-Comparison)
+
 #### [spiral](https://arxari.github.io/spiral.html/)
 wooo ooooo ooo
 
