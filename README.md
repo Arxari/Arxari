@@ -53,6 +53,17 @@ A CLI utility to shock someone repeatedly at a select value, name is like that b
 <details open>
 
 <summary>
+<h3> Hyprland/Arch focused apps & scripts</h3>
+</summary>
+
+#### [apod-hyprpaper](https://github.com/Arxari/apod-hyprpaper)
+A simple python script to set the wallpaper to the NASA APOD when you launch hyprland
+
+</details open>
+
+<details open>
+
+<summary>
 <h3> Websites and web stuff</h3>
 </summary>
 
