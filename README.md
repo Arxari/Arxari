@@ -30,7 +30,7 @@ I use Rust (i wrote a hello world script sucessfully), Python and Shell
 <h3><a href="https://openshock.org/">OpenShock</a> Software and Utilities</h3>
 </summary>
   
-#### [OpenShockClock](https://github.com/Arxari/OpenShockClock) and [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb) | Wake up with electricity, not noise. Powered by OpenShock.
+#### [OpenShockClock](https://github.com/Arxari/OpenShockClock), [OpenShockClockWeb](https://github.com/Arxari/OpenShockClockWeb) and [OpenShockClock-GTK](https://github.com/Arxari/OpenShockClock-GTK)| Wake up with electricity, not noise. Powered by OpenShock.
 ![image](https://github.com/user-attachments/assets/3ed213f0-f082-4d6a-bd38-0d3d8d2c0167)
 
 
