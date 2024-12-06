@@ -56,6 +56,9 @@ A CLI utility to shock someone repeatedly at a select value, name is like that b
 <h3> Hyprland/Arch focused apps & scripts</h3>
 </summary>
 
+#### [musicpaper](https://github.com/Arxari/musicpaper)
+A daemon-like script which changes your wallpaper based on the currently playing song 
+
 #### [HyprSwitcher](https://github.com/Arxari/HyprSwitcher)
 A [shofi-gtk](https://github.com/Arxari/shofi-gtk)-like menu to easily find open apps and jump to them
 
