@@ -67,22 +67,6 @@ A simple python script to set the wallpaper to the NASA APOD when you launch hyp
 
 </details open>
 
-<details open>
-
-<summary>
-<h3> Websites and web stuff</h3>
-</summary>
-
-#### [Comparison table between OpenShock and PiShock](https://github.com/Arxari/OpenShock-PiShock-Comparison)
-
-#### [spiral](https://arxari.github.io/spiral.html/)
-wooo ooooo ooo
-
-
-
-</details open>
-
-
 -- -
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&width=435&height=60&lines=Hey+guys%2C+did+you+know+that;in+terms+of+human+companionship;Flareon+is+objectively+the+most;huggable+Pokemon%3F;While+their+maximum+temperature;is+likely+too+much+for+most%2C;they+are+capable+of+controlling+it%2C+;so+they+can+set+themselves+to;the+perfect+temperature+for+you.;Along+with+that%2C;they+have+a+lot+of+fluff%2C;making+them+undeniably+incredibly;soft+to+touch.;But+that's+not+all%2C;they+have+a+very+respectable;special+defense+stat+of+110%2C;which+means+that+they+are+likely;very+calm;and+resistant+to+emotional+damage.;Because+of+this%2C;if+you+have+a+bad+day%2C;you+can+vent+to+it;while+hugging+it%2C;and+it+won't+mind.;+It+can+make+itself+even+more;+endearing+with+moves+like;Charm+and+Baby+Doll+Eyes;ensuring+that+you+never+have+a;prolonged+bout+of+depression;+ever+again.)](https://git.io/typing-svg)
