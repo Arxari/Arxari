@@ -56,6 +56,8 @@ A CLI utility to shock someone repeatedly at a select value, name is like that b
 <h3> Rust Rewrites </h3>
 </summary>
 
+#### [name](repolink) 
+short description
 
 </details open>
 
