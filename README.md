@@ -53,6 +53,15 @@ A CLI utility to shock someone repeatedly at a select value, name is like that b
 <details open>
 
 <summary>
+<h3> Rust Rewrites </h3>
+</summary>
+
+
+</details open>
+
+<details open>
+
+<summary>
 <h3> Hyprland/Arch focused apps & scripts</h3>
 </summary>
 
